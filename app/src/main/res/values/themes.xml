@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CodSoft_Task_3_Alarm_Clock_App" parent="Theme.MaterialComponents.DayNight" />
+</resources>
